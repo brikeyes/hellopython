@@ -1,5 +1,3 @@
-print("hello world")
-#myName = input ("What is your name?")
-#myVar = 'Hello'
-#print(myName)
-#print(myVar)
+#start loop
+for x in range(0, 300):
+    print ("hello python ") 
